@@ -22,9 +22,15 @@
 				<div class="flex flex-col basis-2/6 justify-center place-items-center mx-10">
 					<div class="text-xl">Let's connect!</div>
 					<div class="flex flex-row">
-						<FontAwesomeIcon icon={faGithub} size="2x" class="m-3" />
-						<FontAwesomeIcon icon={faLinkedinIn} size="2x" class="m-3" />
-						<FontAwesomeIcon icon={faEnvelope} size="2x" class="m-3" />
+						<a href="https://github.com/sc-helena">
+							<FontAwesomeIcon icon={faGithub} size="2x" class="m-3" />
+						</a>
+						<a href="https://www.linkedin.com/in/helena--schneider/">
+							<FontAwesomeIcon icon={faLinkedinIn} size="2x" class="m-3" />
+						</a>
+						<a href="mailto:helena-schneider@outlook.de" className="m-3">
+							<FontAwesomeIcon icon={faEnvelope} size="2x" class="m-3" />
+						</a>
 					</div>
 				</div>
 			</div>
