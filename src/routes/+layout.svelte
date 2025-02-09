@@ -5,7 +5,7 @@
 	let tabSet: number = 0;
 </script>
 
-<div class="h-screen bg-surface-50">
+<div class="h-4/5">
 	<TabGroup class="[&>.tab-list]:flex [&>.tab-list]:flex-row text-tertiary-500 text-xl">
 		<Tab
 			class="basis-1/3"

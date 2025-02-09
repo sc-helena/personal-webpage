@@ -9,8 +9,8 @@
 	config.autoAddCss = false; // Tell Font Awesome to skip adding the CSS automatically since it's being imported above
 </script>
 
-<div class="flex justify-center items-center min-h-screen">
-	<div class="flex flex-row border-2 border-primary-500 h-4/6 w-4/6 text-black">
+<div class="flex justify-center items-center h-full">
+	<div class="flex flex-row border-2 border-primary-500 h-4/6 w-4/6">
 		<div class="basis-1/2">
 			<div class="flex flex-col text-center h-full">
 				<div class="text-primary-500 text-6xl my-10 basis-1/6">Helena Schneider</div>
