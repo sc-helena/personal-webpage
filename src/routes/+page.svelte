@@ -28,7 +28,7 @@
 						<a href="https://www.linkedin.com/in/helena--schneider/">
 							<FontAwesomeIcon icon={faLinkedinIn} size="2x" class="m-3" />
 						</a>
-						<a href="mailto:helena-schneider@outlook.de" className="m-3">
+						<a href="mailto:helena-schneider@outlook.de" class="m-3">
 							<FontAwesomeIcon icon={faEnvelope} size="2x" class="m-3" />
 						</a>
 					</div>
@@ -36,7 +36,7 @@
 			</div>
 		</div>
 		<div class="basis-1/2">
-			<img src={img} class="h-full justify-self-end" />
+			<img src={img} class="h-full justify-self-end" alt="applicant" />
 		</div>
 	</div>
 </div>
