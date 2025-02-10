@@ -28,7 +28,7 @@
 						<a href="https://www.linkedin.com/in/helena--schneider/">
 							<FontAwesomeIcon icon={faLinkedinIn} size="2x" class="m-3" />
 						</a>
-						<a href="mailto:helena-schneider@outlook.de" class="m-3">
+						<a href="mailto:helena-schneider@outlook.de">
 							<FontAwesomeIcon icon={faEnvelope} size="2x" class="m-3" />
 						</a>
 					</div>
