@@ -21,6 +21,7 @@
     "@sveltejs/adapter-auto": "^3.0.0",
     "@sveltejs/kit": "^2.0.0",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "@tailwindcss/forms": "^0.5.10",
     "@types/eslint": "^9.6.0",
     "@types/node": "22.13.1",
     "autoprefixer": "10.4.20",
@@ -42,8 +43,11 @@
   },
   "type": "module",
   "dependencies": {
+    "@azure/openai": "^2.0.0",
+    "@azure/search-documents": "^12.1.0",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
-    "@fortawesome/svelte-fontawesome": "^0.2.3"
+    "@fortawesome/svelte-fontawesome": "^0.2.3",
+    "dotenv": "^16.4.7"
   }
 }
